@@ -14,7 +14,6 @@ ebay.com
 apple.com
 pinterest.com
 cnn.com
-bbc.co.uk
 nytimes.com
 wordpress.org
 tumblr.com
